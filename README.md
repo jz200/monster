@@ -1,2 +1,2 @@
 # monster
-This is a fun project I did with my 9 year old son to show him coding could be a lot of fun.
+This is a fun project I did with my 9 year old son to show him coding could be a lot of fun. We used javascript animation to draw a monster head. My son helped design the shape of the nose (triangle). He picked the eye color as well.  Users get to move the monster in and out of the canvas on screen.   Take a look and move the monster [here](https://jz200.github.io/monster "Google's Homepage").
